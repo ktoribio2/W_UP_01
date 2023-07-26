@@ -1,15 +1,11 @@
 ---
 title: "W_UP_01"
-author: "your name here"
-date: "fall 2020"
+author: "Karina Toribio"
+date: "25 July 2023"
 output: html_document
 ---
 
-
-
 The report structure should include five sections.  see below
-
-
 
 ```{r include=FALSE,echo=FALSE}
 require(tigerstats)
@@ -21,7 +17,7 @@ mydata <- read.csv(file="pushups.csv")
 
 <!--In this section you explain what you are trying to show. Where did the data come from? What is the research or other question you are trying to answer?!-->
 
-Create an Rstudio project in your shared space on rstudio.cloud.  Using the dataset called pushups from the tigerstats package in R; answer the question posed by this null and alternate hypothesis in an html markdown document.
+In this study, we are trying to figure out if there is a difference in the amount of pushups that line players can do vs the amount of pushups that skill players can do. We gathered this data from the  Georgetown College football team. Is there a statisitcal difference in teh average number of pushups between both positions?
 
 $H_0$: There is no difference between the average number of pushups of line vs skill players
 
