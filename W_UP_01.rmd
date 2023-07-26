@@ -53,7 +53,7 @@ This boxplot suggests that the skill position on average does more pushups than 
 favstats(pushups~position,data=mydata)
 ```
 
-In this numerical summary, we are being shown that the skill players are doing approxiamtely 3x more pushups than the line players are. The mean for the skill players is about 49, while the mean for the line players is around 17 pushups, pointing towards the possibility that there is a difference between the two positions and the amount of pushups that they can do. The difference between the two was around 32 pushups.
+In this numerical summary, we are being shown that the skill players are doing approxiamtely 3x more pushups than the line players are. The mean for the skill players is about 49, while the mean for the line players is around 17 pushups, pointing towards the possibility that there is a difference between the two positions and the amount of pushups that they can do. The difference between the two was around 32 pushups, this was in a 2 minute interval.
 
 ### Inferential Results
 
